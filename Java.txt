@@ -1,0 +1,21 @@
+Java 第一章
+Java之父-James Gosling  詹姆斯.高斯林
+计算机之父    冯诺依曼
+Java 的目标是 编写一次,到处运行  Write once,run anywhere
+Oracle  是sun公司提出的
+java 是面向对象编程,Java应用程序的源文件是由若干个书写形式互相独立的类组成
+开发Java应用程序需要经过那些主要步骤:
+1.编写源程序
+2.编译源程序
+3.运行源程序
+
+Java的源文件是有什么组成的?一个一个源文件中必须要有public类吗?
+第一部分:类或外部结构
+第二部分:main方法
+第三部分:编写代码
+
+一个Java源文件中有且只有一个public类
+Java源文件的扩展名是.java    
+java 字节码的扩展名是.class
+
+
